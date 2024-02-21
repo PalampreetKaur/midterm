@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class MidtermCarRental {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Welcome to the Software Fundamentals Car Rental System");
+        System.out.println("Welcome to Car Rental System");
         System.out.println("Please enter the following questions to proceed with creating an account:");
         System.out.println("Please enter your last name: ");
         String lastName = sc.nextLine();
